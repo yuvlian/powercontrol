@@ -11,7 +11,7 @@ fn main() {
     let value: u8 = match input.parse() {
         Ok(num) if num >= 1 && num <= 100 => num,
         _ => {
-            eprintln!("r u retarded, choose between 1-100");
+            eprintln!("r u dumb, choose between 1-100");
             return;
         }
     };
