@@ -1,0 +1,6 @@
+guid: "3ff9831b-6f80-4830-8178-736cd4229e7b"
+
+# change the guid above with yours
+# how to get it, you ask? go win+R, type in cmd, enter
+# type in: powercfg /getactivescheme
+# there you have it
